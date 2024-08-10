@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oracle01-dee
+- 👋 Hi, I’m @Oracle
 - 👀 I’m interested in ...software development and computer networking
 - 🌱 I’m currently learning ...software engineering
 - 💞️ I’m looking to collaborate on ...ethical hacking
